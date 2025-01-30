@@ -1,0 +1,26 @@
+.homeSection3_main_container {
+  background-color: #1c1b1b;
+  color: white;
+  padding: 40px 30px;
+  border-radius: 22px;
+}
+.header_section_main_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerSection_title > h1 {
+  font-size: 44px;
+  font-weight: 600;
+}
+.filters_section_container {
+  background-color: #8d8d8d5c;
+  display: flex;
+  border-radius: 5px;
+  width: fit-content;
+}
+.footer-section {
+  position: relative;
+  padding-top: 220px;
+  z-index: 10000;
+}
